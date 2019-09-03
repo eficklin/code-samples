@@ -1,0 +1,5 @@
+{
+    "require": {
+        "uservoice/uservoice": "^0.0.10"
+    }
+}

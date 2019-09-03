@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9632f80c6a42a40e8d04492bcc2f3a6f",
+    "packages": [
+        {
+            "name": "uservoice/uservoice",
+            "version": "0.0.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/uservoice/uservoice-php.git",
+                "reference": "bbe9d2f3e291a8b843c00b82eb25446c2b965bb2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/uservoice/uservoice-php/zipball/bbe9d2f3e291a8b843c00b82eb25446c2b965bb2",
+                "reference": "bbe9d2f3e291a8b843c00b82eb25446c2b965bb2",
+                "shasum": ""
+            },
+            "require": {
+                "ext-oauth": "*",
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "lespoilus/spyc": "dev-master",
+                "simpletest/simpletest": "~1.1.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "UserVoice": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "UserVoice PHP Library for API Connections",
+            "homepage": "https://github.com/uservoice/uservoice-php",
+            "keywords": [
+                "SSO",
+                "api",
+                "client",
+                "oauth",
+                "uservoice"
+            ],
+            "time": "2017-02-24T14:11:44+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
