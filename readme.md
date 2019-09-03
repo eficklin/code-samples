@@ -16,6 +16,8 @@ Note: with contributions from Eileen Mack, Platform Strategist and Software Engi
 
 The goal here was seamless playback of media from four different sources, three third-party platforms (YouTube, Vimeo, and SoundCloud) and mp3s served from our file storage service. Listening, whether rapid sampling or serious deep-dives, is an essential ingredient of a music discovery platform. But the music to listen to comes from all over the place and needed to be packaged up for easy consumption. With this feature, we introduced the Vue library into our toolkit. It provided the shortest learning curve and best isolation within WordPress to begin this still on-going experiment.
 
+Start exploring: https://www.newmusicusa.org?mediaondemand=playing
+
 ## Wordpress
 Project: newmusicusa.org  
 A collection of integration plugins that leverage third-party services in a self-contained manner. These are slimmer versions of what's available from the WP community or the vendors themselves, tailored to provide only our needs rather than for general distribution.
